@@ -57,7 +57,7 @@ Both toolsets (John the Ripper/Johnny and the Networkwalks hash tools) reliably 
 
 └── 06-pdf2-unlocked-verification.png
 
-## Key Takeaways
+## Key Takeaways 
 - Understanding of how PDF password protection is stored and how it can be converted into a crackable hash format
 - Practical experience with John the Ripper and its GUI counterpart, Johnny
 - Comparison between a CLI-based cracking workflow and web-based Networkwalks tools
@@ -68,4 +68,5 @@ Both toolsets (John the Ripper/Johnny and the Networkwalks hash tools) reliably 
 [LinkedIn](https://www.linkedin.com/in/okoye-amara-bb38033a5)
 
 ---
+
 *This project was completed as part of a cybersecurity internship training program with Networkwalks, in a sandboxed environment designed for learning password security concepts.*
