@@ -32,10 +32,12 @@ Both target PDFs were successfully unlocked, confirming the extracted hashes and
 ## Repository Structure
 
 ├── README.md
+
 ├── screenshots/  
-|.  ├── hash-extraction.png
+|   ├── hash-extraction.png
 │   ├── johnny-gui-cracked.png
 │   └── password-cracker-result.png
+
 └── notes/
 └── methodology-notes.md
 
