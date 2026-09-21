@@ -33,7 +33,7 @@ Both target PDFs were successfully unlocked, confirming the extracted hashes and
 
 ├── README.md
 
-├── screenshots/  
+├── Screenshots/  
 |   ├── hash-extraction.png
 │   ├── johnny-gui-cracked.png
 │   └── password-cracker-result.png
