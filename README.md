@@ -1,4 +1,3 @@
-# PDF Password Cracking Lab — Cybersecurity Capstone
 
 ## Overview
 This project documents a hands-on exercise in cracking password-protected PDF files, completed as part of a cybersecurity internship/capstone in a **controlled, authorized lab environment**. The goal was to understand the end-to-end workflow of password recovery: extracting a crackable hash from a locked file, running dictionary/brute-force attacks against it, and verifying the recovered password.
