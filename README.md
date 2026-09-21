@@ -42,12 +42,19 @@ Both toolsets (John the Ripper/Johnny and the Networkwalks hash tools) reliably 
 ## Repository Structure
 .
 ├── README.md
+
 └── screenshots/
+
 ├── 01-pdf1-hash-extraction-onlinehashcrack.png
+
 ├── 02-pdf1-johnny-cracked-result.png
+
 ├── 03-pdf1-unlocked-verification.png
+
 ├── 04-pdf2-hash-extraction-networkwalks-calculator.png
+
 ├── 05-pdf2-networkwalks-password-cracker-result.png
+
 └── 06-pdf2-unlocked-verification.png
 
 ## Key Takeaways
