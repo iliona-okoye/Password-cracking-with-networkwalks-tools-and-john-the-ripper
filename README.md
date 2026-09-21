@@ -31,9 +31,10 @@ This project documents a hands-on exercise in cracking password-protected PDF fi
 Both target PDFs were successfully unlocked, confirming the extracted hashes and cracking methodology were correct. Screenshots of each step (hash extraction, attack progress, and successful crack) are included in `/screenshots`.
 
 ## Repository Structure
+
 ├── README.md
-├── screenshots/
-│   ├── hash-extraction.png
+├── screenshots/  
+|.  ├── hash-extraction.png
 │   ├── johnny-gui-cracked.png
 │   └── password-cracker-result.png
 └── notes/
